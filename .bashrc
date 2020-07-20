@@ -22,6 +22,7 @@ alias bcorona='cp -r /SharedSSD/Corona ~/Corona.old/'
 alias rcorona='cd /SharedSSD/Corona && prime-run ./run.sh'
 alias wifi='sudo create_ap wlp2s0 wlp2s0 baran lollollol &> /dev/null &'
 alias hello='echo "Hello World!"'
+alias dude='echo'
 function gitc()
 {
 	git clone "git@github.com:ChosenNoob/$1.git"
